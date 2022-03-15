@@ -1,0 +1,51 @@
+/* Set FONTS */
+
+/* The Sans Font */
+
+@font-face {
+    font-family: 'Bio';
+    font-style:  normal;
+    font-weight: normal;
+    src: url("../fonts/LinBiolinum_R.otf") format("opentype");
+
+  }
+  @font-face {
+    font-family: 'Bio';
+    font-style:  italic;
+    font-weight: normal;
+    src: url("../fonts/LinBiolinum_RI.otf") format("opentype");
+  }
+  
+  @font-face {
+    font-family: 'Bio';
+    font-style:  normal;
+    font-weight: bold;
+    src: url("../fonts/LinBiolinum_RB.otf") format("opentype");
+  }
+
+  
+/* The Serif Font */
+
+@font-face {
+    font-family: 'Lin';
+    font-style:  normal;
+    font-weight: normal;
+    src: url("../fonts/LinLibertine_R.otf") format("opentype");
+
+  }
+
+  @font-face {
+    font-family: 'Lin';
+    font-style:  italic;
+    font-weight: normal;
+    src: url("../fonts/LinLibertine_RI.otf") format("opentype");
+
+  }
+
+  @font-face {
+    font-family: 'Lin';
+    font-style:  normal;
+    font-weight: bold;
+    src: url("../fonts/LinLibertine_RB.otf") format("opentype");
+
+  }

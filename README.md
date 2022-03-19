@@ -3,7 +3,7 @@
 ## What is it?
 Just a Vue.js + Vue-router test repo for me.
 
-Demo: [Maurizio Bengiamino](maurizio-bengiamino.netlify.app)
+Demo: [Maurizio Bengiamino](https://maurizio-bengiamino.netlify.app)
 
 ## Project setup
 ```

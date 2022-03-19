@@ -1,7 +1,9 @@
 # Maurizio Bengiamino
 
 ## What is it?
-Just a simple Vue.js test repo for me.
+Just a Vue.js + Vue-router test repo for me.
+
+Demo: [Maurizio Bengiamino](maurizio-bengiamino.netlify.app)
 
 ## Project setup
 ```
